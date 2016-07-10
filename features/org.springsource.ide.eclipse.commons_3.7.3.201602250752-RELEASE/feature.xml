@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.springsource.ide.eclipse.commons"
+      label="%featureName"
+      version="3.7.3.201602250752-RELEASE"
+      provider-name="%providerName">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseUrl">
+      %license
+   </license>
+
+   <requires>
+      <import feature="org.eclipse.mylyn_feature" version="3.4.0.v20100601" match="compatible"/>
+      <import feature="org.eclipse.mylyn.context_feature" version="3.4.0.v20100601" match="compatible"/>
+   </requires>
+
+   <plugin
+         id="org.springsource.ide.eclipse.commons.content.core"
+         download-size="35"
+         install-size="68"
+         version="3.7.3.201602250752-RELEASE"
+         unpack="false"/>
+
+   <plugin
+         id="org.springsource.ide.eclipse.commons.core"
+         download-size="98"
+         install-size="190"
+         version="3.7.3.201602250752-RELEASE"
+         unpack="false"/>
+
+   <plugin
+         id="org.springsource.ide.eclipse.commons.frameworks.core"
+         download-size="88"
+         install-size="169"
+         version="3.7.3.201602250752-RELEASE"
+         unpack="false"/>
+
+   <plugin
+         id="org.springsource.ide.eclipse.commons.frameworks.ui"
+         download-size="220"
+         install-size="481"
+         version="3.7.3.201602250752-RELEASE"
+         unpack="false"/>
+
+   <plugin
+         id="org.springsource.ide.eclipse.commons.configurator"
+         download-size="109"
+         install-size="217"
+         version="3.7.3.201602250752-RELEASE"
+         unpack="false"/>
+
+   <plugin
+         id="org.springsource.ide.eclipse.commons.ui"
+         download-size="171"
+         install-size="261"
+         version="3.7.3.201602250752-RELEASE"
+         unpack="false"/>
+
+   <plugin
+         id="org.springsource.ide.eclipse.commons.livexp"
+         download-size="128"
+         install-size="272"
+         version="3.7.3.201602250752-RELEASE"
+         unpack="false"/>
+         
+   <plugin
+         id="org.springsource.ide.eclipse.commons.completions"
+         download-size="35"
+         install-size="68"
+         version="3.7.3.201602250752-RELEASE"
+         unpack="false"/>
+
+   <plugin
+         id="org.springsource.ide.eclipse.commons.cloudfoundry.client"
+         download-size="13090"
+         install-size="14650"
+         version="3.7.3.201602250752-RELEASE"
+         unpack="false"/>         
+
+</feature>

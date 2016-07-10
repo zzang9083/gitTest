@@ -1,0 +1,171 @@
+Manifest-Version: 1.0
+Export-Package: org.springsource.ide.eclipse.commons.browser,org.sprin
+ gsource.ide.eclipse.commons.browser.javafx
+Bundle-ActivationPolicy: lazy
+Built-By: bamboo
+Eclipse-BundleShape: dir
+Bundle-Name: JavaFx Based Browser Support
+Created-By: Apache Maven
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Require-Bundle: org.apache.commons.lang,org.eclipse.ui,org.eclipse.ui.
+ browser,org.eclipse.fx.osgi.util;bundle-version="0.9.0",org.springsou
+ rce.ide.eclipse.commons.frameworks.core
+Bundle-Vendor: Pivotal Software, Inc.
+Bundle-Version: 3.7.3.201602250752-RELEASE
+Build-Jdk: 1.7.0_67
+Bundle-ManifestVersion: 2
+Bundle-Activator: org.springsource.ide.eclipse.commons.browser.Browser
+ Plugin
+Bundle-SymbolicName: org.springsource.ide.eclipse.commons.browser;sing
+ leton:=true
+Import-Package: org.eclipse.core.runtime,org.osgi.framework,org.osgi.f
+ ramework.wiring
+Source-Control-Identifier: 0da210b42a20038f1286654ff9fdc622e2f0b377
+Archiver-Version: Plexus Archiver
+
+Name: org/springsource/ide/eclipse/commons/browser/IEclipseToBrowserFu
+ nction$Extension.class
+SHA1-Digest: p46ADP1m++C44TM3hMH7kxfuuz0=
+
+Name: org/springsource/ide/eclipse/commons/browser/javafx/JavaFxBrowse
+ rEditor$2.class
+SHA1-Digest: gz43KftTNZLcxQA4PIFKkZVP4AM=
+
+Name: org/springsource/ide/eclipse/commons/browser/javafx/JavaFxBrowse
+ rViewer$8.class
+SHA1-Digest: OS/mheAiHE/ySAQeP1YyNgCzzOw=
+
+Name: org/springsource/ide/eclipse/commons/browser/javafx/JavaFxBrowse
+ rViewer.class
+SHA1-Digest: ZJc7wa0HGzNgitBMwyLLzaK5dkA=
+
+Name: org/springsource/ide/eclipse/commons/browser/javafx/JavaFxBrowse
+ rManager$1.class
+SHA1-Digest: FgIWrfDA651wVpiB+s3GCLTQCjg=
+
+Name: org/springsource/ide/eclipse/commons/browser/IEclipseToBrowserFu
+ nction.class
+SHA1-Digest: 6DfxJN26RYS55Yky4+qwXCCfiO0=
+
+Name: org/springsource/ide/eclipse/commons/browser/javafx/JavaFxBrowse
+ rEditor$3.class
+SHA1-Digest: UsMM7M/U6hVDzSfT/ViJFFpkNHw=
+
+Name: org/springsource/ide/eclipse/commons/browser/javafx/JavaFxBrowse
+ rView$1.class
+SHA1-Digest: 0M7hRp+edzP9QpVogviQZPAvnoU=
+
+Name: org/springsource/ide/eclipse/commons/browser/javafx/JavaFxBrowse
+ rViewer$IBackNextListener.class
+SHA1-Digest: q5FkdLv21uUVy2WKXHv7+vJ6NoY=
+
+Name: org/springsource/ide/eclipse/commons/browser/javafx/JavaFxBrowse
+ rManager.class
+SHA1-Digest: NJnEJ/xQYc3kKYv6G5TceFcWXsM=
+
+Name: org/springsource/ide/eclipse/commons/browser/javafx/JavaFxBrowse
+ rViewer$7.class
+SHA1-Digest: UNhucbPKkpK56W+u8r0ohQ08thE=
+
+Name: about.html
+SHA1-Digest: fa2j3ypfGmOVKTeiyxpqKkv/zZI=
+
+Name: org/springsource/ide/eclipse/commons/browser/javafx/JavaFxBrowse
+ rViewer$2.class
+SHA1-Digest: VvEjC8BJtxvxA4M7pzvFxWi3D+I=
+
+Name: org/springsource/ide/eclipse/commons/browser/javafx/JavaFxBrowse
+ rViewer$11.class
+SHA1-Digest: Cw3/HnL5/kr2PGoObvLUcW/CMQc=
+
+Name: org/springsource/ide/eclipse/commons/browser/javafx/JavaFxBrowse
+ rViewer$1.class
+SHA1-Digest: U683xvOSuNbpZb7AfNknrvT+9nQ=
+
+Name: org/springsource/ide/eclipse/commons/browser/javafx/JavaFxBrowse
+ rView.class
+SHA1-Digest: cOUS/pYzyEKlxE+W1cUWRmGLcuI=
+
+Name: org/springsource/ide/eclipse/commons/browser/BrowserExtensions.c
+ lass
+SHA1-Digest: t7F8XmIDxwTKR9UbMwd5ZCmckdI=
+
+Name: org/springsource/ide/eclipse/commons/browser/BrowserPlugin.class
+SHA1-Digest: s1PScg+pn1aJVvvygassb7fsyZ0=
+
+Name: org/springsource/ide/eclipse/commons/browser/javafx/JavaFxBrowse
+ rViewer$9.class
+SHA1-Digest: h2zX/IcKJaRgbpXAKX8HmDCE+uk=
+
+Name: org/springsource/ide/eclipse/commons/browser/BrowserImages.class
+SHA1-Digest: 2/WH7KAZ+f5arA/DwmVB+afhpo0=
+
+Name: icons/home_16.png
+SHA1-Digest: 7K6sFBRcvsY7PbGgl+XQbfuzFT0=
+
+Name: org/springsource/ide/eclipse/commons/browser/IEclipseToBrowserFu
+ nction$Callback.class
+SHA1-Digest: DRIv/fAifC1nYTOEAuxhEAeSAZk=
+
+Name: org/springsource/ide/eclipse/commons/browser/OpenWizardFunction.
+ class
+SHA1-Digest: Hj4n+nQ34aaGVb6miA7xpqDtHZA=
+
+Name: org/springsource/ide/eclipse/commons/browser/javafx/JavaFxBrowse
+ rViewer$12.class
+SHA1-Digest: hgl1AnsdkT1gwP82v/0MoB2l1eg=
+
+Name: org/springsource/ide/eclipse/commons/browser/javafx/JavaFxBrowse
+ rEditor$1.class
+SHA1-Digest: OU4UMcZwKRUynCM2VrQTN+wwkX0=
+
+Name: org/springsource/ide/eclipse/commons/browser/javafx/OpenJavaFxBr
+ owserFunction.class
+SHA1-Digest: lV5QtMozB4822zYRIiS/WPXTiPM=
+
+Name: org/springsource/ide/eclipse/commons/browser/IBrowserToEclipseFu
+ nction.class
+SHA1-Digest: RNcEjAOBRSyUZYkP3aik6LJS7iw=
+
+Name: icons/spring_browser.png
+SHA1-Digest: 2NYHgIqQG3uuPUJMtDUXK4xvowI=
+
+Name: org/springsource/ide/eclipse/commons/browser/javafx/JavaFxBrowse
+ rViewer$3.class
+SHA1-Digest: J2RlRWZMadnNqwJbQXfICA87YoA=
+
+Name: org/springsource/ide/eclipse/commons/browser/javafx/JavaFxBrowse
+ rViewer$4.class
+SHA1-Digest: OYqYTMpiVkkwl1nosnvH310xlk0=
+
+Name: org/springsource/ide/eclipse/commons/browser/javafx/JavaFxBrowse
+ rEditor.class
+SHA1-Digest: ae7zvQ/zoFEerPZK0aJz3hXl2DY=
+
+Name: plugin.xml
+SHA1-Digest: Ikb9IwfvfGzmnNfyxMENF+pTb00=
+
+Name: org/springsource/ide/eclipse/commons/browser/javafx/JavaFxBrowse
+ rViewer$10.class
+SHA1-Digest: aCSWYsyCoO/HamdbWgC7qaphLDI=
+
+Name: org/springsource/ide/eclipse/commons/browser/javafx/JavaFxBrowse
+ rViewer$6.class
+SHA1-Digest: ug9DUY89HKnfl4wJlddOhNkPbNQ=
+
+Name: org/springsource/ide/eclipse/commons/browser/javafx/JavaFxBrowse
+ rManager$2.class
+SHA1-Digest: 0ogHutbZUE7wYyPNAax0keO62s0=
+
+Name: org/springsource/ide/eclipse/commons/browser/javafx/JavaFxBrowse
+ rViewer$5.class
+SHA1-Digest: SNYq2nA/u6T5qsLp4rtrABmSKkI=
+
+Name: org/springsource/ide/eclipse/commons/browser/OpenEditorFunction.
+ class
+SHA1-Digest: SkDnQD2QeFfhW0uAVMJp7XL2WTU=
+
+Name: org/springsource/ide/eclipse/commons/browser/javafx/JavaFxBrowse
+ rViewer$13.class
+SHA1-Digest: V/0rSkI3WrINvoN6L53AZujB67k=
+

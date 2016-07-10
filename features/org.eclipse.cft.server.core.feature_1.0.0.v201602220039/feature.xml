@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.eclipse.cft.server.core.feature"
+      label="%featureName"
+      version="1.0.0.v201602220039"
+      provider-name="%providerName"
+      plugin="org.eclipse.cft.server.branding.core">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseUrl">
+      %license
+   </license>
+
+   <plugin
+         id="org.eclipse.cft.server.core"
+         download-size="13455"
+         install-size="15497"
+         version="1.0.100.v201602220039"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.cft.server.branding.core"
+         download-size="9"
+         install-size="16"
+         version="1.0.0.v201602220039"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.cft.server.standalone.core"
+         download-size="1087"
+         install-size="1235"
+         version="1.0.0.v201602220039"
+         unpack="false"/>
+
+</feature>

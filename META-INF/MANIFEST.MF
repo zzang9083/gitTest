@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_79 (Oracle Corporation)
+
+Name: icon.xpm
+SHA-256-Digest: u9Yn+4FPioj4G0Zm/+TwJYpb3GP1dSNDO83FOlee5qs=
+
+Name: STS
+SHA-256-Digest: lCIBv92AOunhMk2vTKaZOEw6vP527erHJhnoyVbPtdY=
+

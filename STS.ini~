@@ -1,0 +1,14 @@
+-startup
+plugins/org.eclipse.equinox.launcher_1.3.200.v20151021-1308.jar
+--launcher.library
+plugins/org.eclipse.equinox.launcher.gtk.linux.x86_64_1.1.300.v20160105-0945
+-product
+org.springsource.sts.ide
+--launcher.defaultAction
+openFile
+-vmargs
+-Dosgi.requiredJavaVersion=1.8
+-Xms40m
+-XX:MaxPermSize=256m
+-Xverify:none
+-Xmx1200m
